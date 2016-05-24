@@ -8,6 +8,7 @@ for(i=0;i<5;i++){
 scanf("%i",&x);
 if(x>18){
 printf("tereteuteu");
+printf("N tem nada");
 }
 }
 }
